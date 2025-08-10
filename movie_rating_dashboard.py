@@ -13,4 +13,5 @@ genre = st.selectbox("Select Genre", data['genres'].unique())
 filtered_data = data[data['genres'].str.contains(genre, na=False)]
 
 st.write(f"Top Movies in {genre}")
-st.dataframe(filtered_data[['title', 'rating']].sort_values(by='rating', ascending=False).head(50))
+
+st.dataframe(filtered_data[['title', 'rating']].sort_values(by='rating', ascending=False).head(100))
