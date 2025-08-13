@@ -1,5 +1,7 @@
 # MovieRatingDashboard
-Dashboard created using Numpy and Pandas to list genre wise top rated movies.
+Dashboard created using Numpy and Pandas to list genre wise top rated movies.  
+To access the dashboard click on the given link in the repo. there might chance that the app is in sleep, in that case just click on ***Yes get this app back up***  
+Then you will be able to access the dashboard.
 
 Data set taken from https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?resource=download  
 
@@ -9,7 +11,7 @@ Libraries USED:
 **Streamlit**  
 
 
-**Files**  
+
 ## Files in This Repository  
 
 - `movie_rating_dashboard.py` — Entry point of the application.
