@@ -12,10 +12,11 @@ Libraries USED:
 **Files**  
 ## Files in This Repository  
 
-- `main.py` — Entry point of the application.
-- `data.csv` — Sample dataset.
-- `requirements.txt` — Python dependencies.
-- `README.md` — Documentation for the project.
+- `movie_rating_dashboard.py` — Entry point of the application.
+- `cleaned_movie_data.csv` — Cleaned and processed dataset
+- `movies.csv` - Raw dataset with only movies name
+- `rating.csv` - Raw datset with only the rating of the movies
+- `tags.csv` - Raw dataset with only the tags/genre of the movies.
   
 ***Author: Archit Vaishnav***
 
